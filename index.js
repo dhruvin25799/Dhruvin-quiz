@@ -25,6 +25,14 @@ var questions = [{
 {
   question: "Am I a dog person or cat person? ",
   answer: "Dog"
+},
+{
+  question : "Do I play Valorant or CS:GO? ",
+  answer: "Valorant"
+},
+{
+  question: "What will I prefer in my neog LevelOne Interview JS or React? ",
+  answer: "JS"
 }];
 function welcome() {
  var userName = readlineSync.question("What is your name? ");
